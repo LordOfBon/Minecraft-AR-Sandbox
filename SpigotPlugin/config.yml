@@ -1,0 +1,91 @@
+cart_game_time: 100000
+cart_path:
+- - ==: Vector
+    x: 0.25
+    y: 0.5
+    z: 0.5
+  - ==: Vector
+    x: 0.5
+    y: 0.7
+    z: 0.5
+  - ==: Vector
+    x: 0.75
+    y: 0.5
+    z: 0.5
+- - ==: Vector
+    x: 0.8
+    y: 0.5
+    z: 0.4
+  - ==: Vector
+    x: 0.8
+    y: 0.6
+    z: 0.7
+  - ==: Vector
+    x: 0.4
+    y: 0.4
+    z: 0.7
+  - ==: Vector
+    x: 0.4
+    y: 0.6
+    z: 0.4
+- - ==: Vector
+    x: 0.2
+    y: 0.5
+    z: 0.5
+  - ==: Vector
+    x: 0.35
+    y: 0.6
+    z: 0.5
+  - ==: Vector
+    x: 0.35
+    y: 0.7
+    z: 0.75
+  - ==: Vector
+    x: 0.5
+    y: 0.7
+    z: 0.75
+  - ==: Vector
+    x: 0.5
+    y: 0.5
+    z: 0.25
+  - ==: Vector
+    x: 0.6
+    y: 0.6
+    z: 0.25
+  - ==: Vector
+    x: 0.6
+    y: 0.6
+    z: 0.5
+  - ==: Vector
+    x: 0.75
+    y: 0.7
+    z: 0.5
+lava_delay: 6000
+lava_pillar_block: minecraft:quartz_pillar
+lava_objectives: 3
+lava_goalGrid_width: 5
+lava_goalGrid_length: 3
+build_game_items:
+- minecraft:oak_planks
+- minecraft:water_bucket
+- minecraft:stone
+- minecraft:cobblestone
+- minecraft:oak_log
+- minecraft:cobblestone_stairs
+- minecraft:bricks
+- minecraft:diamond_block
+- minecraft:white_wool
+cart_pillar_block: minecraft:birch_wood
+initial_cart_speed: 5.0
+cart_respawn_time: 8000
+hoglin_mole_delay: 5
+hoglin_game_time: 70000
+hoglin_game_hogs: 50
+build_game_prompts:
+- River Valley
+- Mountain Temple
+- Golf Course
+- Volcano
+- Waterfall
+elytra_game_time: 100000
+defense_game_time: 100000

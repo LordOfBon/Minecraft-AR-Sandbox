@@ -1,0 +1,10 @@
+name: ARSandbox_Spigot
+version: '1.0-SNAPSHOT'
+main: org.example.ARSandbox_Spigot.ARSandbox_Spigot
+api-version: '1.21'
+
+commands:
+  sandbox:
+    description: Command for controlling sandbox plugin
+    usage: /<command> option
+    permission: yourplugin.yourcommandpermission

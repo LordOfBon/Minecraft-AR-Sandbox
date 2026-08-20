@@ -1,0 +1,7 @@
+
+/visualstudio/.vs
+/visualstudio/SandboxMinecraft
+/visualstudio/x64
+*.exe
+*.pdb
+*.dll

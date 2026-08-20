@@ -1,0 +1,28 @@
+source Camera
+processor Minecraft
+align 0
+gaussianBlur 1
+maxDistance 1.208
+minDistance 0.979
+drawDepth 1
+drawColor 1
+fpsSetting 1
+octaves 8
+seed 13
+seedSize 9
+persistance 0.5
+drawGrid 0
+temporalAlpha 0.059
+temporalDelta 72
+temporalPersistance 3
+holeFill 1
+warpPoints 226 114 703 140 214 374 696 396 
+applyHeightAdjustment 0
+planarPoints 150 0 75 150 0 75 
+dataSize 0.284
+projectionPoints 43 93 1811 104 38 1051 1828 1045 
+drawLines 0
+selectedShaderIndex 4
+drawContours 1
+numberOfContourLines 19
+drawProjection 1
